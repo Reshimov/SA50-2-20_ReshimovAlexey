@@ -2,23 +2,23 @@
     height: 50px;
     width: 50px;
     position: relative;
-    border: 3px solid red;
-    top: 20px;
+    top: 20x;
     left: 20px;
+    background-color: red;
 }
 .q2{
     height: 50px;
     width: 50px;
     position: relative;
-    border: 3px solid purple;
-    top: 50px;
-    left: 100px;
+    top: -30px;
+    left: 40px;
+    background-color: purple;
 }
 .q3{
     height: 50px;
     width: 50px;
     position: relative;
-    border: 3px solid green;
-    top: 80px;
-    left: 180px;
+    top: -60px;
+    left: 60px;
+    background-color: green;
 }
