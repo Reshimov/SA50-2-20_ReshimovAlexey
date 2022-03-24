@@ -13,6 +13,7 @@
     top: -30px;
     left: 40px;
     background-color: purple;
+    z-index: 1;
 }
 .q3{
     height: 50px;
