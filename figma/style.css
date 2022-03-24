@@ -1,0 +1,132 @@
+.a{
+    
+    width: 40px;
+    height: 40px;
+    background: #333333;
+    border-radius: 3px;
+    margin: 10px;
+}
+.b{
+    width: 40px;
+    height: 40px;
+    background: #4F4F4F;
+    border-radius: 3px;
+    margin: 10px;  
+}
+.c{
+    width: 40px;
+    height: 40px;
+    background: #828282;
+    border-radius: 3px;
+    margin: 10px;
+}
+.d{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #BDBDBD;
+    border-radius: 3px;
+}
+.e{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #E0E0E0;
+    border-radius: 3px;
+}
+.f{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #F2F2F2;
+    border-radius: 3px;
+}
+.g{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #EB5757;
+    border-radius: 3px;
+}
+.h{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #F2994A;
+    border-radius: 3px;
+}
+.i{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #F2C94C;
+    border-radius: 3px;
+}
+.ukraine{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #219653;
+    border-radius: 3px;
+}
+.j{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #27AE60;
+    border-radius: 3px;
+}
+.k{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #6FCF97;
+    border-radius: 3px;
+}
+.l{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #2F80ED;
+    border-radius: 3px;
+}
+.m{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #2D9CDB;
+    border-radius: 3px;
+}
+.n{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #56CCF2;
+    border-radius: 3px;
+}
+.o{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background: #9B51E0;
+    border-radius: 3px;
+}
+.p{
+    margin: 10px;
+    width: 40px;
+    height: 40px;  
+    background: #BB6BD9;
+    border-radius: 3px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
