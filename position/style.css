@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.q2{
+    height: 50px;
+    width: 100vw;
+    background-color: darkgreen;
+    justify-content: center;
+    position: fixed;
+    z-index: 1;
+    text-align: center;
+    font-size: medium;
+    color: white
+}
+.q3{
+    height: 870px;
+    width: 100vw;
+    position: relative;
+    z-index: 0;
+    top: 50px;
+
+
+}
