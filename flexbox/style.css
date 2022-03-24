@@ -1,0 +1,22 @@
+.main{
+    height: 100px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+}
+.green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    }
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.star{
+    background:url(./CONTEEENT/мегазвезда.jpg);
+    height: 100PX;
+    width: 100PX;
+}
